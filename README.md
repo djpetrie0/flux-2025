@@ -4,4 +4,4 @@
 
 
 ## References
-[View References]()
+[View References](Petrie_flux_citations.pdf)
